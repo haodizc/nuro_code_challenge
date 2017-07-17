@@ -12,6 +12,8 @@ void print_map(vector<vector<int>> &map, int w, int h);
 
 int main() {
 
+    // https://nuro.ai/techfair
+
     // (1, 4), (2, 1), (4, 5), and (5, 0)
 
     ifstream ifs("input.txt");
